@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @olejik1
+- 👋 Hi, my name's Oleg or @olejik1
 - 👀 I’m interested in psychology, maths and programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently studying CS at Moscow's Financial University
+- 📫 You can contact me through VK - @oleggukovich or IG - @olgkkt
 
 <!---
 olejik1/olejik1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
